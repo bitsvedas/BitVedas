@@ -30,7 +30,7 @@ Java के कुछ खास features इसे बाकी languages से
 **JVM (Java Virtual Machine)** एक engine है जो Java apps को run करने के लिए environment प्रदान करता है। यह Java code (Bytecode) को machine language में convert करता है ताकि processor उसे समझ सके।
 
 सरल शब्दों में, JVM वह जादू है जो Java के **"Write Once, Run Anywhere"** (एक बार लिखो, कहीं भी चलाओ) वादे को पूरा करता है।
-![[JVM.png]]
+![[PHOTOS/JVM.png]]
 ---
 
 **Key Components of JVM (JVM के मुख्य भाग)**
