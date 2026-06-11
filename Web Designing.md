@@ -1,3 +1,3 @@
-[https://bitsvedas.github.io/BitVedas/content/pdf/WEB DESIGNING HTML NOTES/UNIT II.html ]
-  ( HTML STTRUCTURE, LIST, FORMAT, IMAGE, ANCHOR TAG)
-   
+[👉 Click here to open UNIT II HTML Notes](pdf/htmlunit2.html)
+
+
